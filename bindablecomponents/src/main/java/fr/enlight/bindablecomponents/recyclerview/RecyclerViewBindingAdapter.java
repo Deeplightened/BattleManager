@@ -1,9 +1,11 @@
-package fr.enlight.bindablerecyclerview;
+package fr.enlight.bindablecomponents.recyclerview;
 
 import android.databinding.BindingAdapter;
 import android.support.v7.widget.RecyclerView;
 
 import java.util.List;
+
+import fr.enlight.bindablecomponents.BindableViewModel;
 
 /**
  *

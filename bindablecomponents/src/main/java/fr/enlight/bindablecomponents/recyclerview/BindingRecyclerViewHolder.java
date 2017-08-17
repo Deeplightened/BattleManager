@@ -1,7 +1,9 @@
-package fr.enlight.bindablerecyclerview;
+package fr.enlight.bindablecomponents.recyclerview;
 
 import android.databinding.ViewDataBinding;
 import android.support.v7.widget.RecyclerView;
+
+import fr.enlight.bindablecomponents.BindableViewModel;
 
 /**
  *

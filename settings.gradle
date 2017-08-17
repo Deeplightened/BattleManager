@@ -1,1 +1,1 @@
-include ':app', ':bindablerecyclerview'
+include ':app', ':bindablecomponents'

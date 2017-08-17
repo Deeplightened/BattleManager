@@ -1,4 +1,4 @@
-package fr.enlight.bindablerecyclerview;
+package fr.enlight.bindablecomponents;
 
 import android.support.annotation.LayoutRes;
 

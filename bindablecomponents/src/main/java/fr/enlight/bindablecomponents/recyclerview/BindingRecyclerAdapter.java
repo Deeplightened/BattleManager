@@ -1,4 +1,4 @@
-package fr.enlight.bindablerecyclerview;
+package fr.enlight.bindablecomponents.recyclerview;
 
 import android.databinding.DataBindingUtil;
 import android.databinding.ViewDataBinding;
@@ -8,6 +8,8 @@ import android.view.ViewGroup;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import fr.enlight.bindablecomponents.BindableViewModel;
 
 /**
  *
